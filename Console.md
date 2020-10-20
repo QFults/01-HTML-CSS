@@ -16,3 +16,15 @@
 - ../ = back one directory
 - ../../ = back two directories
 
+## touch <file_name>
+- creates a file
+
+## rm <file_name>
+- deletes a file
+
+## rmdir <directory_name>
+- deletes a directory (must be empty)
+
+## git clone <repo_uri>
+- Clones a repository to your device
+
